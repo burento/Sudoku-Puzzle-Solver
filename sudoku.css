@@ -1,0 +1,15 @@
+#board{
+	display:table;
+}
+.trow{
+	display:table-row;
+}
+.tile{
+	display:table-cell;
+}
+.t-br{
+	border-right:2px solid #000;
+}
+.t-bb{
+	border-bottom:;
+}
